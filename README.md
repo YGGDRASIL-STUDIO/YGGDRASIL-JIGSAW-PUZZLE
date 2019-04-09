@@ -7,7 +7,7 @@ Lightweight but powerful. Optimized for Steam Workshop and customizable. YGGDRAS
 ## Source codes
 The source code here is the smallest version of the game. [Ren'Py](https://renpy.org) is required to play or build this. The source codes of YGGDRASIL JIGSAW PUZZLE is covered by the terms of the [GNU Lesser General Public License v3.0](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/blob/master/LICENSE).
 
-[Download](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPCodes.zip)
+* [Download](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPCodes.zip)
 
 ## Steam Workshop Templates
 You can create your own MOD for the community with our templates and guide. **Commons** are required, please download the other additional template according to the tool you use.
@@ -15,8 +15,8 @@ You can create your own MOD for the community with our templates and guide. **Co
 * [SteamCMD](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/SteamCMD.zip)
 * [SteamWorkshopUploader](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/SteamWorkshopUploader.zip) for Windows(Include [SteamWorkshopUploader](https://github.com/nihilocrat/SteamWorkshopUploader))
 
-### Workshop MOD Creation Guide
-https://steamcommunity.com/sharedfiles/filedetails/?id=1706791845
-
-### YJP Steam Workshop
-https://steamcommunity.com/app/1045400/workshop/
+### Links
+* [Workshop MOD Creation Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1706791845)
+* [YJP Steam Workshop](https://steamcommunity.com/app/1045400/workshop/)
+* [YGGDRASIL JIGSAW PUZZLE on Steam](https://store.steampowered.com/app/1045400/YGGDRASIL_JIGSAW_PUZZLE/)
+* [Ren'Py Visual Novel Engine](https://renpy.org)
