@@ -1,0 +1,12 @@
+"workshopitem"
+{
+	"appid"		"1045400"
+	"publishedfileid"		""
+	"contentfolder"		"<path>/your_mod"
+	"previewfile"		"<path>/your_icon.png"
+	"visibility"		"2"
+	"title"		"Your title goes here"
+	"description"		"Description goes here, the Steam text formatting markup tags allow."
+	"changenote"		"Initial Release"
+	"tags"		"Your tags goes here"
+}
