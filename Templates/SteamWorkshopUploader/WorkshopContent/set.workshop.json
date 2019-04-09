@@ -1,0 +1,12 @@
+{
+	"publishedfileid": "",
+	"contentfolder": "your_mod",
+	"previewfile": "your_icon.png",
+	"visibility": 2,
+	"title": "Your title goes here",
+	"description": "Description goes here, the Steam text formatting markup tags allow.",
+	"metadata": "",
+	"tags": [
+		"Your tags goes here"
+	]
+}
