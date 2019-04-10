@@ -7,7 +7,7 @@ Lightweight but powerful. Optimized for Steam Workshop and customizable. YGGDRAS
 
 
 ## Source codes
-The source code here is the smallest version of the game. [Ren'Py](https://renpy.org) is required to play or build this. The source codes of YGGDRASIL JIGSAW PUZZLE is covered by the terms of the [GNU Lesser General Public License v3.0](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/blob/master/LICENSE).
+The source code here is the smallest version of the game with a small number of images and no Steamworks support, no obstacle options, no music. [Ren'Py](https://renpy.org) is required to play or build this. The source codes of YGGDRASIL JIGSAW PUZZLE is covered by the terms of the [GNU Lesser General Public License v3.0](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/blob/master/LICENSE).
 
 * [Download](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPCodes.zip)
 
