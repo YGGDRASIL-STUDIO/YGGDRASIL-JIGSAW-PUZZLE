@@ -3,7 +3,9 @@
 
 [![Donate Me](https://img.shields.io/badge/Built%20by-Lee%20Yunseok-purple.svg?style=popout&logo=paypal&maxAge=999999)](https://paypal.me/leeyunseok) [![Become a Patron](https://img.shields.io/badge/Become%20a-Patron-f96854.svg?style=popout&logo=Patreon&maxAge=999999)](https://www.patreon.com/bePatron?u=347743) [![Travis branch](https://img.shields.io/travis/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/master.svg?style=popout&logo=travis&maxAge=999999)](https://travis-ci.org/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE) [![GitHub release](https://img.shields.io/github/release/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE.svg?style=popout&logo=github)](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases) ![Github file size](https://img.shields.io/github/release-date/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE.svg?style=popout&logo=github) ![License](https://img.shields.io/github/license/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE.svg?style=popout&logo=github)
 
-Lightweight but powerful. Optimized for Steam Workshop and customizable. YGGDRASIL JIGSAW PUZZLE is an independent puzzle game created by YGGDRASIL STUDIO. Our GitHub repository contains **examples** such as source code and steam workshop templates. The full version of the game can be purchased from [Steam](https://store.steampowered.com/app/1045400/YGGDRASIL_JIGSAW_PUZZLE/).
+Lightweight but powerful. Optimized for Steam Workshop and customizable. YGGDRASIL JIGSAW PUZZLE is an independent puzzle game created by YGGDRASIL STUDIO.
+
+Our GitHub repository contains **examples** such as source code and steam workshop templates. The full version of the game can be purchased from [Steam](https://store.steampowered.com/app/1045400/YGGDRASIL_JIGSAW_PUZZLE/).
 
 ## Description
 * Lightweight but powerful. Optimized for Steam Workshop and customizable.
@@ -13,7 +15,9 @@ Lightweight but powerful. Optimized for Steam Workshop and customizable. YGGDRAS
 * Steam Achievements, Workshop. Cross-platform auto-cloud sync with Steam Cloud.
 
 ## Source Codes
-The source codes here is the smallest version of the game with a small number of images and no Steamworks support, no obstacle options, no music. [Ren'Py](https://renpy.org) is required to play or build this. The source codes of YGGDRASIL JIGSAW PUZZLE is covered by the terms of the [GNU Lesser General Public License v3.0](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/blob/master/LICENSE). You can also download the build binaries and play the game.
+The source codes here is the smallest version of the game with a small number of images and no Steamworks support, no obstacle options, no music. [Ren'Py](https://renpy.org) is required to play or build this. You can also download the build binaries and play the game.
+
+The source codes of YGGDRASIL JIGSAW PUZZLE is covered by the terms of the [GNU Lesser General Public License v3.0](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/blob/master/LICENSE).
 
 * [Download](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPCodes.zip) (YJPCodes.zip) (9.23 MB)
 
