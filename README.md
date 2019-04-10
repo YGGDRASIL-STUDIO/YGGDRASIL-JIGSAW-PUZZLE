@@ -15,9 +15,7 @@ Our GitHub repository contains **examples** such as source code and steam worksh
 * Steam Achievements, Workshop. Cross-platform auto-cloud sync with Steam Cloud.
 
 ## Source Codes
-The source codes here is the smallest version of the game with a small number of images and no Steamworks support, no obstacle options, no music. [Ren'Py](https://renpy.org) is required to play or build this. You can also download the build binaries and play the game.
-
-The source codes of YGGDRASIL JIGSAW PUZZLE is covered by the terms of the [GNU Lesser General Public License v3.0](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/blob/master/LICENSE).
+Here is the **smallest version** of the game with a small number of images and no Steamworks support, no obstacle options, no music. [Ren'Py](https://renpy.org) is required to play or build this. You can also download the build binaries and play the game.
 
 * [Download](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPCodes.zip) (YJPCodes.zip) (9.23 MB)
 
@@ -56,3 +54,6 @@ SteamWorkshopUploader.zip: 31524ff5e9b865b88fb41ac3e39906fc
 * [YJP Steam Workshop](https://steamcommunity.com/app/1045400/workshop/)
 * [YGGDRASIL JIGSAW PUZZLE on Steam](https://store.steampowered.com/app/1045400/YGGDRASIL_JIGSAW_PUZZLE/)
 * [Ren'Py Visual Novel Engine](https://renpy.org)
+
+## Licenses
+YGGDRASIL JIGSAW PUZZLE © YGGDRASIL STUDIO Co, Pte. All Rights Reserved. The source codes of YGGDRASIL JIGSAW PUZZLE is covered by the terms of the [GNU Lesser General Public License v3.0](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/blob/master/LICENSE).
