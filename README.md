@@ -12,7 +12,7 @@ The source code here is the smallest version of the game with a small number of 
 * [Download](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPCodes.zip)
 
 ## Steam Workshop Templates
-You can create your own MOD for the community with our templates and guide. **Commons** are required, please download the other additional template according to the tool you use.
+You can create your own MOD for the community with our templates and guide. **Commons** are required, please download the other additional template according to the tool you use. SteamCMD is a command-line, SteamWorkshopUploader is a GUI tool.
 * [Commons](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/Templates.zip)
 * [SteamCMD](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/SteamCMD.zip)
 * [SteamWorkshopUploader](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/SteamWorkshopUploader.zip) for Windows(Include [SteamWorkshopUploader](https://github.com/nihilocrat/SteamWorkshopUploader))
