@@ -1,5 +1,5 @@
 # YGGDRASIL JIGSAW PUZZLE
-![YGGDRASIL JIGSAW PUZZLE](https://yggdrasil-studio.github.io/YGGDRASIL-JIGSAW-PUZZLE/yggdrasil-jigsaw-puzzle-steam-main.png)
+![YGGDRASIL JIGSAW PUZZLE](https://yggdrasil-studio.github.io/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE-steam-main.png)
 
 [![Donate Me](https://img.shields.io/badge/Built%20by-Lee%20Yunseok-purple.svg?style=popout&logo=paypal&maxAge=999999)](https://paypal.me/leeyunseok) [![Become a Patron](https://img.shields.io/badge/Become%20a-Patron-f96854.svg?style=popout&logo=Patreon&maxAge=999999)](https://www.patreon.com/bePatron?u=347743) [![Travis branch](https://img.shields.io/travis/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/master.svg?style=popout&logo=travis&maxAge=999999)](https://travis-ci.org/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE) [![GitHub release](https://img.shields.io/github/release/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE.svg?style=popout&logo=github)](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases) ![Github file size](https://img.shields.io/github/release-date/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE.svg?style=popout&logo=github) ![License](https://img.shields.io/github/license/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE.svg?style=popout&logo=github)
 
@@ -17,14 +17,14 @@ Our GitHub repository contains **examples** such as source code and Steam Worksh
 ## Source Codes
 Here is the **smallest version** of the game with a small number of images and no Steamworks support, no obstacle options, no music. [Ren'Py](https://renpy.org) is required to play or build this. You can also download the build binaries and play the game.
 
-* [Download](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPCodes.zip) (YJPCodes.zip) (9.23 MB)
+* [Download](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPCodes.zip) (YJPCodes.zip) (9.23 MB)
 
 ### Build Binaries
-* [Raspberry Pi](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPBinary-rpi.tar.gz) (YJPBinary-rpi.tar.gz) (18.5 MB)
-* [Linux x64](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPBinary-linux_x64.tar.gz) (YJPBinary-linux_x64.tar.gz) (20.5 MB)
-* [Linux x86](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPBinary-linux_x86.tar.gz) (YJPBinary-linux_x86.tar.gz) (19.7 MB)
-* [macOS](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPBinary-mac.zip) (YJPBinary-mac.zip) (22.71 MB)
-* [Windows](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPBinary-win.zip) (YJPBinary-win.zip) (21.9 MB)
+* [Raspberry Pi](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPBinary-rpi.tar.gz) (YJPBinary-rpi.tar.gz) (18.5 MB)
+* [Linux x64](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPBinary-linux_x64.tar.gz) (YJPBinary-linux_x64.tar.gz) (20.5 MB)
+* [Linux x86](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPBinary-linux_x86.tar.gz) (YJPBinary-linux_x86.tar.gz) (19.7 MB)
+* [macOS](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPBinary-mac.zip) (YJPBinary-mac.zip) (22.71 MB)
+* [Windows](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPBinary-win.zip) (YJPBinary-win.zip) (21.9 MB)
 
 #### MD5 Checksums
 ```
@@ -38,9 +38,9 @@ YJPBinary-win.zip: d7a2b353780d6ee82bcf3920bfa7739e
 
 ## Steam Workshop Templates
 You can create your own MOD for the community with our templates and guide. **Commons** are required, please download the other additional template according to the tool you use. SteamCMD is a command-line, SteamWorkshopUploader is a GUI tool.
-* [Commons](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/Templates.zip) (Templates.zip) (3.26 MB)
-* [SteamCMD](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/SteamCMD.zip) (SteamCMD.zip) (101 KB)
-* [SteamWorkshopUploader](https://github.com/YGGDRASIL-JIGSAW-PUZZLE/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/SteamWorkshopUploader.zip) for Windows(Include [SteamWorkshopUploader](https://github.com/nihilocrat/SteamWorkshopUploader)) (SteamWorkshopUploader.zip) (11.6 MB)
+* [Commons](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/Templates.zip) (Templates.zip) (3.26 MB)
+* [SteamCMD](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/SteamCMD.zip) (SteamCMD.zip) (101 KB)
+* [SteamWorkshopUploader](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/SteamWorkshopUploader.zip) for Windows(Include [SteamWorkshopUploader](https://github.com/nihilocrat/SteamWorkshopUploader)) (SteamWorkshopUploader.zip) (11.6 MB)
 
 #### MD5 Checksums
 ```
