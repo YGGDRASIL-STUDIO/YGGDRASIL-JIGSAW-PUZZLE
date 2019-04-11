@@ -1,5 +1,5 @@
 # YGGDRASIL JIGSAW PUZZLE
-![YGGDRASIL JIGSAW PUZZLE](https://yggdrasil-studio.github.io/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE-steam-main.png)
+![YGGDRASIL JIGSAW PUZZLE](https://yggdrasil-studio.github.io/YGGDRASIL-JIGSAW-PUZZLE/yggdrasil-jigsaw-puzzle-steam-main.png)
 
 [![Donate Me](https://img.shields.io/badge/Built%20by-Lee%20Yunseok-purple.svg?style=popout&logo=paypal&maxAge=999999)](https://paypal.me/leeyunseok) [![Become a Patron](https://img.shields.io/badge/Become%20a-Patron-f96854.svg?style=popout&logo=Patreon&maxAge=999999)](https://www.patreon.com/bePatron?u=347743) [![Travis branch](https://img.shields.io/travis/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/master.svg?style=popout&logo=travis&maxAge=999999)](https://travis-ci.org/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE) [![GitHub release](https://img.shields.io/github/release/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE.svg?style=popout&logo=github)](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases) ![Github file size](https://img.shields.io/github/release-date/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE.svg?style=popout&logo=github) ![License](https://img.shields.io/github/license/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE.svg?style=popout&logo=github)
 
