@@ -16,7 +16,6 @@ init -1 python:
     mod_desc.append("MOD description")
     mod_image.append("sample")
     if persistent.themes == "sample":
-        persistent.open_src = "sample_opening.webp"
         persistent.mainbg_src = "sample_bg.webp"
         persistent.menubg_src = im.Blur("sample_bg.webp", 3)
         persistent.frame_src = "sample_frame.webp"
