@@ -37,16 +37,14 @@ YJPBinary-win.zip: d7a2b353780d6ee82bcf3920bfa7739e
 ```
 
 ## Steam Workshop Templates
-You can create your own MOD for the community with our templates and guide. **Commons** are required, please download the other additional template according to the tool you use. SteamCMD is a command-line, SteamWorkshopUploader is a GUI tool.
-* [Commons](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/Templates.zip) (Templates.zip) (3.26 MB)
-* [SteamCMD](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/SteamCMD.zip) (SteamCMD.zip) (101 KB)
-* [SteamWorkshopUploader](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/SteamWorkshopUploader.zip) for Windows(Include [SteamWorkshopUploader](https://github.com/nihilocrat/SteamWorkshopUploader)) (SteamWorkshopUploader.zip) (11.6 MB)
+You can create your own MOD for the community with our templates and guide. Please download the template according to the tool you use. SteamCMD is a command-line, SteamWorkshopUploader is a GUI tool.
+* [SteamCMD](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/SteamCMD_templates.zip) (SteamCMD_templates.zip) (3.36 MB)
+* [SteamWorkshopUploader](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/SteamWorkshopUploader_templates.zip) for Windows(Include [SteamWorkshopUploader](https://github.com/nihilocrat/SteamWorkshopUploader)) (SteamWorkshopUploader_templates.zip) (14.88 MB)
 
 #### MD5 Checksums
 ```
-Templates.zip: 1dc3a935c21369d931d8bf70f22a075c
-SteamCMD.zip: 678da58d753a22ff6733dbdc500a7701
-SteamWorkshopUploader.zip: 31524ff5e9b865b88fb41ac3e39906fc
+SteamCMD_templates.zip: f8b198a3b962f5e068df3a790a47a4eb
+SteamWorkshopUploader_templates.zip: 9b938822ae075535ca17b88909545297
 ```
 
 ## Links
