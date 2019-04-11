@@ -5,7 +5,7 @@
 
 Lightweight but powerful. Optimized for Steam Workshop and customizable. YGGDRASIL JIGSAW PUZZLE is an independent puzzle game created by YGGDRASIL STUDIO.
 
-Our GitHub repository contains **examples** such as source code and steam workshop templates. The full version of the game can be purchased from [Steam](https://store.steampowered.com/app/1045400/YGGDRASIL_JIGSAW_PUZZLE/).
+Our GitHub repository contains **examples** such as source code and Steam Workshop templates. The full version of the game can be purchased from [Steam](https://store.steampowered.com/app/1045400/YGGDRASIL_JIGSAW_PUZZLE/).
 
 ## Description
 * Lightweight but powerful. Optimized for Steam Workshop and customizable.
