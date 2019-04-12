@@ -13,6 +13,7 @@ Our GitHub repository contains **examples** such as source code and Steam Worksh
 * Basically works in random mode. Also you can play the puzzles you want in the gallery.
 * Easily customize the puzzle images and themes from made with community or yourself.
 * Steam Achievements, Workshop. Cross-platform auto-cloud sync with Steam Cloud.
+* Full Controller support with Steam Input.
 
 ## Source Codes
 Here is the **smallest version** of the game with a small number of images and no Steamworks support, no obstacle options, no music. [Ren'Py](https://renpy.org) is required to play or build this. You can also download the build binaries and play the game.
