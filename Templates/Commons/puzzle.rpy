@@ -93,3 +93,4 @@ screen sample_nav():
     hbox align(.03,.957):
         textbutton _("Return") action [SetVariable("gview", None), SetVariable("gfull", None), SetVariable("mods", None), ShowMenu("sample")]
         textbutton _("Replay") action [SetVariable("chosen_img", gview), SetVariable("replay_j", True), Jump("start")]
+    key "pad_y_press" action [SetVariable("chosen_img", gview), SetVariable("replay_j", True), Jump("start")]
