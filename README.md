@@ -43,8 +43,8 @@ You can create your own MOD for the community with our templates and guide. Plea
 
 #### MD5 Checksums
 ```
-SteamCMD_templates.zip: 841cd0c11b8ed9831c99f7a4dfba5a64
-SteamWorkshopUploader_templates.zip: 34dcce37370df428250fdfd1f6212a18
+SteamCMD_templates.zip: 689bde2642015825070f6c8135a79ac9
+SteamWorkshopUploader_templates.zip: aa8fc0af746d324a5745e293e20b9add
 ```
 
 ## Links
