@@ -25,7 +25,7 @@ This program contains free software under a number of licenses, including the MI
 """)
 define gui.credits = _p("""
 {color=#99ccff}CREDITS{/color}\n
-{a=https://github.com/Lee-Yunseok}Lee Yunseok{/a} - Directing, Design, Programming, Music, Sound, Retouched CG, Packaging, Movie, Website
+{a=https://github.com/Lee-Yunseok}Lee Yunseok{/a} - YGGDRASIL JIGSAW PUZZLE
 
 {a=https://renpy.org/}PyTom{/a} - Ren'Py Visual Novel Engine, Original Ren'Py Cardgame Framework
 
