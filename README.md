@@ -50,7 +50,6 @@ SteamWorkshopUploader_templates.zip: 9081e8fc70428672c5dbda339c136da7
 
 ## Links
 * [Official GitHub Wiki](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/wiki)
-* [Workshop MOD Creation Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1706791845)
 * [YGGDRASIL JIGSAW PUZZLE Steam Workshop](https://steamcommunity.com/app/1045400/workshop/)
 * [YGGDRASIL JIGSAW PUZZLE on Steam](https://store.steampowered.com/app/1045400/YGGDRASIL_JIGSAW_PUZZLE/)
 * [Ren'Py Visual Novel Engine](https://renpy.org)
