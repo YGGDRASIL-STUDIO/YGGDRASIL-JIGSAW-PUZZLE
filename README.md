@@ -29,7 +29,7 @@ Here is the **smallest version** of the game with a small number of images and n
 
 #### MD5 Checksums
 ```
-YJPCodes.zip: 51c7f5016ac0ee668674bd4af248415f
+YJPCodes.zip: 6f8c8f493c62094c8a76c3e7eb866138
 YJPBinary-rpi.tar.gz: 52ee5c85955699d9085c9a4f4be433e4
 YJPBinary-linux_x64.tar.gz: bdf4f8993f3646330668215b442a6301
 YJPBinary-linux_x86.tar.gz: 1bc0bed7a585e64723f9b905af898a39
