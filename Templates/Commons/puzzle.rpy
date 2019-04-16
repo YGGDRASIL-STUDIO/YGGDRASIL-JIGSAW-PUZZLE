@@ -53,8 +53,8 @@ screen sample():
                 style_prefix "radio"
                 textbutton _("On") action [SetField(persistent, "play_mods", "sample"), renpy.reload_script]
                 textbutton _("Off") action [SetField(persistent, "play_mods", None), renpy.reload_script]
-                null height gui.pref_spacing
-                text _([theme_set])
+            null height gui.pref_spacing
+            text _([theme_set])
         if sample_scr == 1:
             vbox:
                 ########## Edit grid to the number of you puzzle images. Default number 4*2 = 8. ##########
