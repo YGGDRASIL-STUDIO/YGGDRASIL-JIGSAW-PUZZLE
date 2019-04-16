@@ -116,8 +116,8 @@ screen sample():
                         style_prefix "radio"
                         textbutton _("On") action [SetField(persistent, "obsplay", "sample"), SetField(persistent, "obsex", "sample"), SetField(persistent, "obsse", 1), SetField(persistent, "obsseex", "sample"), renpy.reload_script]
                         textbutton _("Off") action [SetField(persistent, "obsplay", None), SetField(persistent, "obsex", None), SetField(persistent, "obsse", 0), SetField(persistent, "obsseex", None), renpy.reload_script]
-                null height gui.pref_spacing
-                text _([theme_set])
+            null height gui.pref_spacing
+            text _([theme_set])
         if sample_scr == 1:
             vbox:
                 ########## Edit grid to the number of you puzzle images. Default number 4*2 = 8. ##########

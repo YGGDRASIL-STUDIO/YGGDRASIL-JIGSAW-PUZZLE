@@ -41,8 +41,8 @@ screen sample():
                 style_prefix "radio"
                 textbutton _("On") action [SetField(persistent, "sample_music", True), renpy.music.stop, renpy.reload_script]
                 textbutton _("Off") action [SetField(persistent, "sample_music", None), renpy.music.stop, renpy.reload_script]
-                null height gui.pref_spacing
-                text _([theme_set])
+            null height gui.pref_spacing
+            text _([theme_set])
         if sample_scr == 1:
             text _p("""
             {a="your_url"}Your Name{/color} - Your part in credits
