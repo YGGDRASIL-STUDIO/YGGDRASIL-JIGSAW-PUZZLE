@@ -49,9 +49,11 @@ SteamWorkshopUploader_templates.zip: 527bc90f8a188dc299dd0e90f6d94339
 ```
 
 ## Links
-* [Official GitHub Wiki](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/wiki)
-* [YGGDRASIL JIGSAW PUZZLE Steam Workshop](https://steamcommunity.com/app/1045400/workshop/)
 * [YGGDRASIL JIGSAW PUZZLE on Steam](https://store.steampowered.com/app/1045400/YGGDRASIL_JIGSAW_PUZZLE/)
+* [YGGDRASIL JIGSAW PUZZLE Steam Workshop](https://steamcommunity.com/app/1045400/workshop/)
+* Presskit(coming soon)
+* [Official IndieDB Blog](https://www.indiedb.com/games/yggdrasil-jigsaw-puzzle)
+* [Official GitHub Wiki](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/wiki)
 * [Ren'Py Visual Novel Engine](https://renpy.org)
 
 ## Licenses
