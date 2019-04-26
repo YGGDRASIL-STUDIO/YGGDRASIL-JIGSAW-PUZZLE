@@ -1,6 +1,6 @@
 #################################################################################################################################
 #                                                                                                                               #
-#          If you want to sell your MOD in Steam with the form of DLC, please contact to yggdrasilgamestudio@gmail.com.         #
+#          If you want to sell your MOD in Steam with the form of DLC, please contact to yggdrasilstudio@protonmail.com.         #
 #          We welcome Photographers, Illustrators, Musicians, and all INDIE creators who wish to collaborate with us.           #
 #                                                                                                                               #
 #################################################################################################################################
