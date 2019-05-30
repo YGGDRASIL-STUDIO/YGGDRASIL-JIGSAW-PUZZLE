@@ -64,9 +64,9 @@ screen sample():
                     yspacing 25
                     for i in sample:
                         if renpy.seen_image("sample_images/"+i):
-                            imagebutton idle "sample_images_small/"+i hover "sample_images_small/"+i hover_background "#99ccff" action [SetVariable("gview", "sample_images/"+i), SetVariable("gfull", "sample_images_full/"+i), SetVariable("mods", "sample"), ShowMenu("sample_nav")] xsize 324 ysize 184
+                            imagebutton idle "sample_images_small/"+i hover_background "#99ccff" action [SetVariable("gview", "sample_images/"+i), SetVariable("gfull", "sample_images_full/"+i), SetVariable("mods", "sample"), ShowMenu("sample_nav")] xsize 324 ysize 184
                         else:
-                            imagebutton idle im.Grayscale("sample_images_small/"+i) hover im.Grayscale("sample_images_small/"+i) hover_background "#99ccff" action [SetVariable("gview", "sample_images/"+i), SetVariable("mods", "sample"), ShowMenu("sample"), Jump("start")] xsize 324 ysize 184
+                            imagebutton idle im.Grayscale("sample_images_small/"+i) hover_background "#99ccff" action [SetVariable("gview", "sample_images/"+i), SetVariable("mods", "sample"), ShowMenu("sample"), Jump("start")] xsize 324 ysize 184
         if sample_scr == 2:
             text _p("""
             {a="your_url"}Your Name{/color} - Your part in credits

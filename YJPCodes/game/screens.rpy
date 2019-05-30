@@ -359,9 +359,9 @@ screen gallery():
             yspacing 25
             for g_i in j_i:
                 if renpy.seen_image(g_i):
-                    imagebutton idle "images_small/"+g_i hover "images_small/"+g_i hover_background "#99ccff" action [SetVariable("gview", g_i), g.Action(name=g_i)] xsize 324 ysize 184
+                    imagebutton idle "images_small/"+g_i hover_background "#99ccff" action [SetVariable("gview", g_i), g.Action(name=g_i)] xsize 324 ysize 184
                 else:
-                    imagebutton idle im.Grayscale("images_small/"+g_i) hover im.Grayscale("images_small/"+g_i) hover_background "#99ccff" action [SetVariable("gview", g_i), Jump("start")] xsize 324 ysize 184
+                    imagebutton idle im.Grayscale("images_small/"+g_i) hover_background "#99ccff" action [SetVariable("gview", g_i), Jump("start")] xsize 324 ysize 184
 screen gallery_navigation():
     style_prefix "main_menu"
     add "gall_bottom" size(1920,216) ypos 864
