@@ -21,7 +21,7 @@ Here is the **smallest version** of the game with a small number of images and n
 * [Download](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPCodes.zip) (YJPCodes.zip) (9.23 MB)
 
 ### Build Binaries
-* [Raspberry Pi](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPBinary-rpi.tar.gz) (YJPBinary-rpi.tar.gz) (18.5 MB)
+* [Raspberry Pi](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0.1/YJPBinary-rpi.tar.gz) (YJPBinary-rpi.tar.gz) (18.5 MB)
 * [Linux x64](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPBinary-linux_x64.tar.gz) (YJPBinary-linux_x64.tar.gz) (20.5 MB)
 * [Linux x86](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPBinary-linux_x86.tar.gz) (YJPBinary-linux_x86.tar.gz) (19.7 MB)
 * [macOS](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPBinary-mac.zip) (YJPBinary-mac.zip) (22.71 MB)
@@ -30,7 +30,7 @@ Here is the **smallest version** of the game with a small number of images and n
 #### MD5 Checksums
 ```
 YJPCodes.zip: 6f8c8f493c62094c8a76c3e7eb866138
-YJPBinary-rpi.tar.gz: 52ee5c85955699d9085c9a4f4be433e4
+YJPBinary-rpi.tar.gz: b7cbeef29783fb7d086910475a1d5306
 YJPBinary-linux_x64.tar.gz: bdf4f8993f3646330668215b442a6301
 YJPBinary-linux_x86.tar.gz: 1bc0bed7a585e64723f9b905af898a39
 YJPBinary-mac.zip: 576a6a26b36a956ee5ce724dbaca38a6
