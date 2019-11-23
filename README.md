@@ -21,7 +21,7 @@ Here is the **smallest version** of the game with a small number of images and n
 * [Download](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPCodes.zip) (YJPCodes.zip) (9.23 MB)
 
 ### Build Binaries
-* [Raspberry Pi](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0.1/YJPBinary-rpi.tar.gz) (YJPBinary-rpi.tar.gz) (18.5 MB)
+* [Raspberry Pi](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0.1/YJPBinary-rpi.tar.gz) (YJPBinary-rpi.tar.gz) (20.7 MB)
 * [Linux x64](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPBinary-linux_x64.tar.gz) (YJPBinary-linux_x64.tar.gz) (20.5 MB)
 * [Linux x86](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPBinary-linux_x86.tar.gz) (YJPBinary-linux_x86.tar.gz) (19.7 MB)
 * [macOS](https://github.com/YGGDRASIL-STUDIO/YGGDRASIL-JIGSAW-PUZZLE/releases/download/V1.0/YJPBinary-mac.zip) (YJPBinary-mac.zip) (22.71 MB)
